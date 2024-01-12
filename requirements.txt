@@ -1,0 +1,9 @@
+fastai
+torch
+numpy
+pandas
+librosa
+timm
+torchvision
+torchaudio
+matplotlib
